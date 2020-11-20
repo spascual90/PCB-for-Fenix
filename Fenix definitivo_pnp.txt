@@ -1,0 +1,78 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Fenix definitivo
+*Date=23:29:13
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;molex-1x2_lock;69.4549;-11.8646;-90;Bottom;JP1-Buzzer
+2;;;34.0908;-30.2651;0;Bottom;TXT2
+3;;;95.0976;-31.9024;0;Bottom;Copper Fill14
+4;;molex-1x3_lock;84.5679;-31.0416;-90;Bottom;JP5-S0
+5;;;6.1849;-16.764;0;Bottom;Copper Fill37
+6;;;13.7717;-8.52131;90;Bottom;TXT1
+7;;molex-1x6_lock;81.1389;-41.7096;0;Bottom;JP4-I2C IMU
+8;;;66.2432;-18.1229;0;Bottom;Copper Fill42
+9;;;83.7692;-15.8369;0;Bottom;Copper Fill33
+10;;;95.0976;-11.5824;0;Bottom;Copper Fill24
+11;1k;THT;59.5489;-33.5816;180;Bottom;R1
+12;;;95.0976;-16.6624;0;Bottom;Copper Fill20
+13;;;97.4852;-45.8724;0;Bottom;Copper Fill6
+14;;;93.6117;-6.9596;0;Bottom;Copper Fill27
+15;;;73.406;-22.0218;0;Bottom;Copper Fill21
+16;;;95.0976;-19.2024;0;Bottom;Copper Fill19
+17;;;74.7141;-10.1854;0;Bottom;Copper Fill36
+18;;;95.1738;-50.673;0;Bottom;Copper Fill2
+19;2.2k;THT;59.5489;-28.5016;0;Bottom;R2
+20;;;97.3582;-7.8105;0;Bottom;Copper Fill29
+21;;;95.0976;-21.7424;0;Bottom;Copper Fill18
+22;;molex-1x2_lock;66.9149;-19.4846;-90;Bottom;JP2-Keypad
+23;;;40.9702;-46.1264;0;Bottom;Copper Fill3
+24;;;87.8332;-31.3182;0;Bottom;Copper Fill13
+25;;;95.0976;-39.5224;0;Bottom;Copper Fill10
+26;;;77.2541;-42.1132;0;Bottom;Copper Fill41
+27;;;7.0612;-15.8369;0;Bottom;Copper Fill38
+28;;;34.0689;-37.036;0;Bottom;TXT1
+29;;;95.0976;-44.6024;0;Bottom;Copper Fill8
+30;;;56.9749;-10.685;0;Bottom;Via1
+31;;;26.5049;-51.7398;0;Bottom;Copper Fill26
+32;;molex-1x3_lock;34.1489;-41.5826;0;Bottom;JP6-Eng.Control
+33;;;81.2085;-37.036;0;Bottom;TXT1
+34;;molex-1x6_lock;84.4409;-17.0716;-90;Bottom;JP3-BT
+35;;;95.0976;-26.8224;0;Bottom;Copper Fill16
+36;;;30.7086;-41.4909;0;Bottom;Copper Fill32
+37;;;13.6808;-21.9204;90;Bottom;TXT1
+38;;;63.7032;-28.5369;0;Bottom;Copper Fill40
+39;;;43.0149;-3.6068;0;Bottom;Copper Fill30
+40;;;95.0976;-42.0624;0;Bottom;Copper Fill9
+41;;;96.5073;-6.9596;0;Bottom;Copper Fill28
+42;;;7.0612;-5.7277;0;Bottom;Copper Fill35
+43;;buzzer-12mm;74.7887;-12.5517;90;Bottom;Buzzer
+44;;;90.5774;-16.9429;-90;Bottom;TXT1
+45;;;44.8818;-26.797;0;Bottom;Copper Fill23
+46;;;95.0976;-47.1424;0;Bottom;Copper Fill7
+47;;;95.0976;-24.2824;0;Bottom;Copper Fill17
+48;;;95.0976;-14.1224;0;Bottom;Copper Fill22
+49;;;95.0976;-34.4424;0;Bottom;Copper Fill12
+50;;;67.9704;-18.1229;0;Bottom;Copper Fill43
+51;;;6.1849;-4.826;0;Bottom;Copper Fill34
+52;;;95.0976;-29.3624;0;Bottom;Copper Fill15
+53;;;90.7288;-44.0944;0;Bottom;Copper Fill1
+54;;THT;2.57899;-20.8818;180;Bottom;J2-Feedback
+55;;;31.5849;-40.64;0;Bottom;Copper Fill31
+56;;;40.4749;-3.3528;0;Bottom;Copper Fill25
+57;;;90.7817;-31.0758;-90;Bottom;TXT1
+58;;THT;2.57899;-8.20067;180;Bottom;J1-Power IN
+59;;;86.0806;-45.8978;0;Bottom;Copper Fill5
+60;;;50.6589;-26.8224;0;Bottom;Part1
+61;;;95.0976;-36.9824;0;Bottom;Copper Fill11
+62;;;83.0326;-46.1518;0;Bottom;Copper Fill4
+63;;;64.5541;-29.3878;0;Bottom;Copper Fill39
